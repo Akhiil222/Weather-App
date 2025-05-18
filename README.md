@@ -16,4 +16,5 @@ React.js for frontend development
 OpenWeatherMap API for fetching weather data
 
 CSS for styling and layout
+
 Live link : https://incandescent-donut-df79e0.netlify.app/
