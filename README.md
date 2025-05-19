@@ -1,20 +1,24 @@
-🌦️ SkyCast - Weather Forecast App
-SkyCast is a responsive weather forecast web application built with React.js. It provides real-time weather updates for any city using the OpenWeatherMap API. The app showcases temperature, weather conditions, wind speed, humidity, and more in a clean and user-friendly interface.
+# 🌦️ SkyCast - Weather Forecast App
 
-🚀 Features
-Real-time weather updates by city
+**Live Demo →** (https://incandescent-donut-df79e0.netlify.app/)
 
-Displays temperature, weather conditions, humidity, and wind speed
+**SkyCast** is a responsive weather forecast web application built with **React.js**. It provides real-time weather updates for any city using the **OpenWeatherMap API**. The app showcases temperature, weather conditions, wind speed, humidity, and more — all within a clean and user-friendly interface.
 
-Fully responsive design for mobile, tablet, and desktop
+---
 
-Clean and modern UI with intuitive UX
+## 🚀 Features
 
-🛠️ Tech Stack
-React.js for frontend development
+- 🔍 Search by city for real-time weather updates  
+- 🌡️ Display of temperature, weather condition, humidity, and wind speed  
+- 📱 Fully responsive design for mobile, tablet, and desktop  
+- 🎨 Clean and modern UI with intuitive user experience  
 
-OpenWeatherMap API for fetching weather data
+---
 
-CSS for styling and layout
+## 🛠️ Tech Stack
 
-Live link : https://incandescent-donut-df79e0.netlify.app/
+- ⚛️ **React.js** – Frontend framework  
+- 🌐 **OpenWeatherMap API** – Weather data provider  
+- 🎨 **CSS** – Styling and layout  
+
+
